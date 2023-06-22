@@ -27,7 +27,7 @@ types[0][17].src = "images/fire.png";
 
 //ice
 types[1][0]=[[types[0][5],types[0][3],types[0][9],types[0][7]],
-[types[0][0]],
+[],
 [types[0][0]]];
 
 //bug
